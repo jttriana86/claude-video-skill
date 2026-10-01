@@ -89,8 +89,9 @@ Si todo sale `OK`, ya está. Pídele tu primer video.
 
 ## Cuánto tarda
 
-Un video de 45–60 segundos toma entre 10 y 30 minutos de trabajo de Claude (guion, voz, dos
-versiones, revisión). El render en sí tarda 1–3 minutos por versión en un computador normal.
+Un video de 45–60 segundos toma entre 20 y 40 minutos de trabajo de Claude (guion, voz, dos
+versiones y dos o tres rondas de revisión). En la prueba, cada render de 50 segundos tardó 3–4
+minutos con las dos versiones en paralelo, y cada ronda de corrección unos 6–8 minutos.
 
 ## Cómo está hecha
 
