@@ -12,14 +12,15 @@ veces la misma pieza cambiando solo el encargo.
 | Un mínimo suelto («al menos 40 cortes») | Se pasa y marea | Rangos de dos lados: «entre 8 y 20» |
 | La misma palabra muchas veces | Se vuelve el centro del video | Cada idea una vez, en proporción a su importancia |
 | Tono cauteloso («educativo», «sencillo», «una idea a la vez») | Baja el techo: sale lento y plano | La claridad se pide como oficio medible, no como tono |
-| Ambición («que impresione a un experto y a un niño») | Sube el techo | Va al inicio del encargo |
+| Ambición («que el cliente lo quiera mostrar en su próxima junta») | Sube el techo | Va al inicio del encargo |
 | Referencias antes de idear | Las copia | Si hay referencia, se mira al final, para comparar |
 
 ## Plantilla del encargo (adaptar, no recortar)
 
-> Eres el mejor director de motion graphics con el que he trabajado. Quiero una pieza que deje
-> sin palabras a quien la vea: a un experto en el tema, a alguien que nunca ha oído de él y a un
-> niño. Estoy harto de los videos corporativos promedio que se ven todos iguales.
+> Eres el mejor director de motion graphics con el que he trabajado. Quiero una pieza que la gente
+> vuelva a ver y reenvíe: que quien domina el tema no le encuentre un error y que quien no sabe
+> nada lo entienda a la primera. Estoy harto de los videos corporativos promedio que se ven todos
+> iguales.
 >
 > **Material:** [ruta al guion / documento / cifras]. Estúdialo tú; de ahí sale todo el contenido.
 > No inventes cifras ni nombres.
@@ -49,8 +50,8 @@ veces la misma pieza cambiando solo el encargo.
 >
 > Lee `<skill>/references/oficio.md` antes de empezar. Copia `<skill>/plantilla/escena.html` a tu
 > carpeta y respeta su contrato. Renderiza, abre la hoja de cuadros y **mírala**, corrige y repite
-> hasta que no puedas nombrar algo que lo mejore. No me des un plan: hazlo. Tómate el tiempo que
-> necesites.
+> hasta que no puedas nombrar algo que lo mejore. No me des un plan: hazlo. No hay prisa: prefiero
+> una pieza terminada a una rápida.
 >
 > Comandos:
 > ```
@@ -67,9 +68,9 @@ estructura y solo cambia la estética. Cambia solo esa línea; lo demás igual.
 
 ## Lo que NO va en el encargo
 
-Lista de escenas, paleta impuesta (salvo marca del cliente), herramientas obligatorias, ejemplos de
-otros videos u opiniones tuyas sobre el contenido. Cada una de esas cosas lo acerca a lo que ya
-imaginaste y le quita lo que él podía proponer.
+No se le pasa la lista de escenas, ni una paleta (salvo que el cliente tenga marca), ni
+herramientas obligatorias, ni videos de ejemplo, ni tu opinión sobre el contenido. Todo eso lo
+amarra a lo que tú ya tenías en la cabeza, y se pierde lo que el modelo habría propuesto solo.
 
 ## Después de que el usuario elige
 

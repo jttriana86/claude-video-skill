@@ -18,8 +18,9 @@ cuadros. No es un estilo: es cómo se hace bien cualquier estilo.
   el cierre, 2–3 segundos.
 - El movimiento acelera, se sostiene y frena en seco. Nada se mueve a velocidad pareja: lo lineal
   se ve a programa de presentaciones.
-- La primera versión casi siempre sale apurada; si hay duda, dar más aire.
-- Sacudidas de pantalla o destellos: máximo 3 en todo el video, solo en los golpes más fuertes.
+- Lo normal es que el primer render vaya demasiado rápido. Ante la duda, alargar las pausas.
+- Temblores de cámara y destellos se guardan para los 2 o 3 momentos clave del video; usados
+  más, dejan de pesar.
 
 ## Estructura
 
@@ -27,17 +28,18 @@ Recursos que sostienen una pieza. **Son opciones, no una lista para cumplir**: e
 sirvan a esta historia; usar todos a la vez es justo lo que hace que los videos se parezcan.
 
 - **Un hilo visual** que abre, cruza y cierra la pieza (una forma, una línea, un número que
-  crece). El cierre repite la apertura, transformada.
-- **Una idea grande por escena.** Una palabra o cifra enorme manda; el resto es susurro.
+  crece). El final retoma la imagen del inicio, cambiada por lo que pasó en medio.
+- **Una sola protagonista por escena.** Una palabra o una cifra ocupa la pantalla; todo lo demás
+  va pequeño y en segundo plano.
 - **Un medidor que avanza** (año, porcentaje, contador, barra) le dice al espectador dónde está
   y le da sensación de progreso.
-- Cada escena es un logro que empuja la historia hacia adelante, no una lámina más.
+- Cada escena deja algo resuelto o revelado. Si se puede quitar sin que se note, sobra.
 
 ## Texto y tipografía
 
 - Máximo dos familias tipográficas, cada una con un papel (titular / apoyo).
-- Las palabras son parte de la imagen: se escriben, se arman, empujan cosas. No son subtítulos
-  pegados encima.
+- El texto se comporta como un objeto más de la escena: se escribe, se arma, choca o desplaza
+  otras formas. No es un letrero puesto encima del video.
 - Tamaños: en 1920×1080, nada de texto por debajo de 28 px; titulares de 120 px en adelante.
   En vertical, todo un 30 % más grande y lejos de los bordes de arriba y abajo (ahí la app pone
   sus botones).
@@ -46,9 +48,9 @@ sirvan a esta historia; usar todos a la vez es justo lo que hace que los videos 
 ## Color y luz
 
 - Pocos colores. Un acento que se usa poco y por eso se nota.
-- Un solo punto de luz bueno vale más que brillo repartido por toda la pantalla (eso se ve barato).
-- Un cambio de fondo o de material puede marcar el cambio de acto (una opción entre varias:
-  también lo marcan un cambio de escala, de cámara o de ritmo).
+- Mejor una fuente de luz clara que resplandor por todos lados: el brillo repartido abarata la imagen.
+- Para que se note que la historia pasó a otra parte sirve cambiar el fondo, la escala, el
+  encuadre o el ritmo. Basta con uno; no hace falta cambiarlos todos.
 
 ## Cifras
 
@@ -60,8 +62,8 @@ sirvan a esta historia; usar todos a la vez es justo lo que hace que los videos 
 ## Técnica
 
 - Determinismo: todo sale de `t`. Para azar, usar el `aleatorio(semilla)` de la plantilla.
-- Nitidez: dibujar a la resolución final; si algo se ve borroso, revisar escalados antes de tocar
-  la cámara.
+- Nitidez: dibujar a la resolución final; si algo sale desenfocado, buscar primero dónde se está
+  ampliando una imagen pequeña.
 - Las fuentes web se esperan antes de pintar (la plantilla ya lo hace con `document.fonts.ready`).
 - Imágenes (logo, fotos del cliente): se cargan antes de empezar y se dibujan sin deformarse.
 
